@@ -102,4 +102,4 @@ _The Application has the following web pages_
 ### GraphQL Link -> http://localhost:5000/graphql
 
 ## App View
-![Screenshot](https://github.com/DeepshikhaDudi20/Next-Apollo-UserDetails/blob/master/app%20screenshot.png)
+![Screenshot](https://github.com/DeepshikhaDudi20/NextJs-Apollo-UserDetails/blob/main/app%20screenshot.png)
